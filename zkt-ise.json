@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 511,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-ise-0001",
@@ -7198,7 +7201,7 @@
   "blocks": 511,
   "chars": 11953,
   "poems": 511,
-  "yaku": 0,
+  "yaku": 511,
   "editions": 1,
   "updated": "2026-11-05",
   "updated_at": "2026-11-05T03:18:46+09:00"
